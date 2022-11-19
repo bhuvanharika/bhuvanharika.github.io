@@ -9762,3 +9762,9 @@ a.text-dark:hover, a.text-dark:focus {
     border-right: none !important;
   }
 }
+
+.directions {
+  background: #ffffffcc;
+  margin-top: 20px;
+  border-radius: 15px;
+}
